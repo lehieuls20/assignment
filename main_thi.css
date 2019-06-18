@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+}
+.header-top{
+    height: 100px;
+    background: #272f54;
+    text-align: center;
+}
+.logo{
+    max-width: 100px;
+    text-align: center;
+}
+.menu{
+    background: #a03f00;
+}
+.menu::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+.menu li {
+    float: left;
+    padding: 15px;
+}
+.menu li a{
+    text-decoration: none;
+}
+.menu div{
+    float: right;
+}
+
+.banner{
+    height: 250px;
+}
+.new h3{
+    font-size: 20px;
+    color: #272f54;
+}
+.col-4 h4{
+    font-size: 16px;
+    color: #a03f00;
+}
+.col-4 p{
+    font-size: 13px;
+    color: #000;
+}
+.col-4{
+    border: 1px solid #000;
+    margin-bottom: 20px;
+}
+footer{
+    height: 50px;
+    background: #272f54;
+}
+footer p{
+    text-align: center;
+    color: white;
+}
