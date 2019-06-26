@@ -67,6 +67,7 @@ main:after {
 }
 
 aside {
+    height: 100%;
     width: 300px;
     float: left;
     background: #e5e5e5;
