@@ -1,0 +1,148 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    padding-bottom: 50px;
+}
+.header{
+    background: #f7f7f7;
+    margin: 0;
+}
+.banner{
+    position: relative;
+}
+.Course{
+    background: #f7f7f7;
+    margin: 0;
+}
+.jumbotron{
+    position: absolute;
+    top: 10%;
+    background: none;
+    text-align: center;
+}
+.jumbotron .course{
+    font-size: 150px;
+    padding-bottom: 20px;
+    font-family: unset;
+}
+.jumbotron h1{
+    color: white;
+}
+.Our-Featured-Courses{
+    text-align: center;
+}
+.Course-Categories{
+    text-align: center;
+    padding-top: 20px;
+}
+.Events{
+    text-align: center;
+}
+.row .blue{
+    background: #6c83e6;
+}
+.row .white-col{
+    background: white;
+    margin: 0;
+    padding: 0;
+}
+.row .blue .white{
+    color: white;
+}
+.Course-row{
+    padding: 10px;
+}
+.col-3{
+    padding: 20px;
+    text-align: center;
+}
+.row .col-3 span{
+    color: #6c83e6;
+}
+.main{
+    background: black;
+}
+.comment{
+    text-align: center;
+    color: #7d7d81;
+    height: 200px;
+}
+.comment h3{
+    color: white;
+}
+.comment strong{
+    color: #6c83e6;
+}
+.new-comment{
+    padding-top: 50px;
+}
+.background{
+    background: #ee5926;
+}
+.btn{
+    background-color: black;
+    color: white;
+}
+.card-title strong{
+    color: white;
+}
+.title{
+    font-size: 46px;
+}
+.text{
+    font-size: 18px;
+}
+.col-7{
+    padding: 0;
+}
+.subcribe{
+    background: #778ce6;
+}
+.subcribe--content{
+    color: #ffffff;
+    margin-right: 50px;
+    padding-left: 200px;
+}
+.media img{
+    height: 70px;
+}
+.media{
+    padding: 10px 10px 10px 0px;
+}
+.footer-top{
+    height: 70px;
+    background: #6c83e6;
+}
+.form-inline{
+    text-align: center;
+}
+.button2{
+    background: white;
+    color: black;
+}
+.Our-Blog h3{
+    text-align: center;
+}
+.footer-main{
+    background: #252526;
+}
+.footer-main p{
+    color: #5b5c5e;
+}
+.footer-main h3{
+    color: white;
+}
+.footer-bottom{
+    background: #313233;
+    height: 40px;
+}
+.footer-bottom strong{
+    color: #c6c7cc;
+}
+.footer-bottom p{
+    color: #6f7073;
+}
+.footer{
+    text-align: center;
+}

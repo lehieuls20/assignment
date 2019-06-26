@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+}
+.header-top{
+    height: 70px;
+    background: black;
+    text-align: center;
+}
+.menu{
+    background: purple;
+}
+.btn{
+    background: blue;
+    color: white;
+}
+aside{
+    background: plum;
+    height: 100%;
+}
+.nav-item a{
+    color: white;
+}
+main h2{
+    text-align: center;
+    color: purple;
+}
+.title{
+    border-bottom: 2px solid purple;
+}
+.item{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.email h4{
+    padding: 20px;
+    text-align: center;
+}
+.email .button{
+    text-align: center;
+}
+footer{
+    background: purple;
+    text-align: center;
+    height: 30px;;
+}
+footer p{
+    color: white;
+}
