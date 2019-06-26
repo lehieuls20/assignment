@@ -1,0 +1,74 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    padding: 20px;
+}
+.header{
+    background: #fff;
+}
+.jumbotron{
+    background: #fff;
+    text-align: center;
+}
+.jumbotron .btn{
+    background-color: black;
+    border-color: black;
+}
+nav{
+    background: #fff;
+}
+.main-bottom{
+    background: #e5e5e5;
+}
+.card-body{
+    text-align: center;
+}
+.media-body p a{
+    color: #ca1f1f;
+    text-decoration: none;
+    font-size: 13px;
+}
+.logo{
+    float: left;
+}
+.Copyright strong a{
+    color: #ca1f1f;
+    text-decoration: none;
+}
+.menu-bottom a{
+    text-decoration: none;
+    color: #000;
+}
+.menu-bottom .portfolio{
+    color: #099999;
+}
+.menu-bottom{
+    text-align: right;
+}
+.container{
+    border-bottom: 1px solid #bbb;
+}
+.card-img-top{
+    width: 200px;
+    height: 200px;
+}
+
+.align-self-start{
+    width: 10px;
+    height: 10px;
+    border: 1px solid #000;
+    max-width: 100̀%;
+}
+.media{
+    margin: 50px;
+    border-bottom: 1px solid #bbb;
+}
+
+.media img{
+    width: 150px;
+    height: 100px;
+    border: 1px solid #000;
+    max-width: 100̀%;
+}
+
